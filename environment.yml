@@ -3,7 +3,6 @@ dependencies:
 - anaconda::python=3.6
 - anaconda::pandas==0.23.3
 - anaconda::matplotlib==2.2.0
-- intel::tensorflow==1.6.0
+- anaconda::keras==2.2.0
 - conda-forge::scikit-learn==0.19.2
 - conda-forge::notebook==5.6.0
-- conda-forge::keras==2.1.6
